@@ -1,0 +1,6 @@
+domain,languages,frameworks,databases,cloud_providers,analytics,marketing_tools
+stripe.com,"Ruby, Go, Java, Python","React, Rails","PostgreSQL, Redis","AWS, GCP","Segment, Amplitude","Marketo, Intercom"
+notion.so,"TypeScript, Kotlin, Go","React, Next.js","PostgreSQL, Redis","AWS","Mixpanel, Amplitude","Intercom, Customer.io"
+figma.com,"TypeScript, C++, Rust","React","PostgreSQL","AWS, GCP","Amplitude","Intercom, Marketo"
+anthropic.com,"Python, TypeScript","React, FastAPI","PostgreSQL","GCP, AWS","Segment","HubSpot"
+linear.app,"TypeScript","React, Node.js","PostgreSQL","AWS","Posthog","Intercom"

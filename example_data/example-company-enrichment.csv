@@ -1,0 +1,6 @@
+email,company_name,domain,industry,employee_count,revenue_range,founded_year,headquarters,linkedin_url
+john@stripe.com,Stripe Inc,stripe.com,Financial Technology,8000+,$1B+,2010,"San Francisco, CA",linkedin.com/company/stripe
+sarah@notion.so,Notion Labs,notion.so,Software,500-1000,$100M-$500M,2013,"San Francisco, CA",linkedin.com/company/notion
+mike@figma.com,Figma Inc,figma.com,Design Software,1000-2000,$100M-$500M,2012,"San Francisco, CA",linkedin.com/company/figma
+lisa@anthropic.com,Anthropic,anthropic.com,Artificial Intelligence,500-1000,$100M-$500M,2021,"San Francisco, CA",linkedin.com/company/anthropic
+david@linear.app,Linear,linear.app,Project Management,50-200,$10M-$50M,2019,"San Francisco, CA",linkedin.com/company/linear
