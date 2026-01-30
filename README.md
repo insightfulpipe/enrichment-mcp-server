@@ -1,11 +1,14 @@
-# Enrichment MCP Server
+# Enrichment MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/enrichment)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Enrich company and contact data with AI-powered data discovery through MCP.**
 
-The Enrichment MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to enrich business data. Get company profiles, funding data, tech stacks, and leadership information from email addresses and domains.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The Enrichment MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to enrich business data. Get company profiles, funding data, tech stacks, and leadership information from email addresses and domains.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![Enrichment MCP Server](https://insightfulpipe.com/images/ip-logo.png)
 
@@ -157,11 +160,19 @@ Monitor competitor tech stacks and hiring trends.
 - **Audit logging** - Track all enrichment requests
 - **Access controls** - Role-based permissions
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### B2B & Data MCP Servers
 - [LinkedIn Ads MCP](https://insightfulpipe.com/mcp-servers/linkedin-ads) - B2B advertising
 - [Web Crawler MCP](https://insightfulpipe.com/mcp-servers/crawler) - Web scraping
+
+### Analytics MCP Servers
 - [Google Analytics MCP](https://insightfulpipe.com/mcp-servers/google-analytics) - Visitor analytics
+- [Google Ads MCP](https://insightfulpipe.com/mcp-servers/google-ads) - Google advertising
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -172,7 +183,12 @@ Monitor competitor tech stacks and hiring trends.
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
